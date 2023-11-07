@@ -1,5 +1,9 @@
 Degrees of Lewdity
-庫褲子BJ美化包髮型擴充 - 使用說明
+庫褲子BJ美化包髮型擴充
+解決了大部分髮型缺失導致的光頭問題，但目前戴帽子依然會禿頭，日後會嘗試修好這個BUG
+已獲得BJ美化作者授權，證明在ZIP檔內
+
+使用說明
 
 1.下載最新版DOL -> https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/releases/tag/v0.4.3.3-chs-alpha2.0.1
 
