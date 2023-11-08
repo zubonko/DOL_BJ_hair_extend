@@ -1,4 +1,4 @@
-Degrees of Lewdity/
+Degrees of Lewdity/n
 庫褲子BJ美化包髮型擴充/
 需點開右邊的release來下載最新版/
 解決了大部分髮型缺失導致的光頭問題，但目前戴帽子依然會禿頭，日後會嘗試修好這個BUG/
