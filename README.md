@@ -14,6 +14,9 @@ Degrees of Lewdity\
 
 4.將檔案{IMG}拖至你的DOL遊戲資料夾內，覆蓋所有相同項目
 
+*面部刺青模組下載（可選）：
+https://github.com/zubonko/DOL_BJ_hair_extend/releases/tag/tattoo
+
 -------------------------------------------------------------------------
 BJ Hairstyle Extension - By ZUBONKO\
 You need to click {Releases} on the right to download the latest version\
@@ -28,5 +31,8 @@ Instructions for Use:
 3. Download and unzip this file {Dol_hair_v1.x.zip}
 
 4. Drag the file {IMG} into your DOL game folder and cover all the same items
+
+*Face tattoo mod download (optional): 
+https://github.com/zubonko/DOL_BJ_hair_extend/releases/tag/tattoo
 
 # DOL-
