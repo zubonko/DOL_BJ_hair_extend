@@ -1,7 +1,7 @@
 Degrees of Lewdity\
 庫褲子BJ美化包髮型擴充\
-需點開右邊的Releases來下載最新版\
-解決了大部分髮型缺失導致的光頭問題，但目前戴帽子依然會禿頭，日後會嘗試修好這個BUG\
+需點開右邊的{Releases}來下載最新版\
+解決了大部分髮型缺失以及帽子缺失導致的光頭問題\
 已獲得BJ美化作者授權，證明在ZIP檔內
 
 使用說明：
@@ -15,12 +15,15 @@ Degrees of Lewdity\
 4.將檔案{IMG}拖至你的DOL遊戲資料夾內，覆蓋所有相同項目
 
 -------------------------------------------------------------------------
-BJ Hairstyle Extension - By ZUBONKO
+BJ Hairstyle Extension - By ZUBONKO\
+You need to click {Releases} on the right to download the latest version\
+Solved most of the bald problems caused by missing hairstyles and missing hats\
+
 Instructions for Use:
 
 1. Download the latest version of DOL -> https://vrelnir.blogspot.com/?zx=ba6dc80dda374e0c
 
-2. Download MOD {Papa Paril BEEESSS Burger Joint} -> https://gitgud.io/GTXMEGADUDE/papa-paril-burger-joint
+2. Download BEEESSS MOD -> https://gitgud.io/GTXMEGADUDE/papa-paril-burger-joint
 
 3. Download and unzip this file {Dol_hair_v1.x.zip}
 
