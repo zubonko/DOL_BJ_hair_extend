@@ -36,6 +36,7 @@ Instructions for Use:
 > 4. Drag the file {IMG} into your DOL game folder and cover all the same items
 
 > [DL_APK](https://github.com/carnivoroussnowleopard/Degrees-of-Lewdity-ENG-Retexture-apk)  BY [carnivore_snow leopard]\
+> [DL_Korean_APK](https://github.com/carnivoroussnowleopard/Degrees-of-Lewdity-KR-Retexture-apk)  BY [carnivore_snow leopard]\
 > [Face tattoo mod download(optional)](https://github.com/zubonko/DOL_BJ_hair_extend/releases/tag/tattoo)
 
 # DOL-
