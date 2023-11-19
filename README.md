@@ -16,6 +16,7 @@
 > 4.將檔案{IMG}拖至你的DOL遊戲資料夾內，覆蓋所有相同項目
 
 > [面部刺青模組下載(可選)](https://github.com/zubonko/DOL_BJ_hair_extend/releases/tag/tattoo)\
+> > [APK檔一鍵安裝](https://github.com/carnivoroussnowleopard/Degrees-of-Lewdity-CN-Retexture-apk)  BY [carnivore_snow leopard]\
 > [安卓版安裝教學](https://www.plurk.com/p/pdzr59?fbclid=IwAR2QFLKA4th6wJ2AG9sbRKQUy5Eomickt2XiiBKVFV04mE9bt-EpThn3fvc)
 
 
@@ -34,6 +35,7 @@ Instructions for Use:
 >
 > 4. Drag the file {IMG} into your DOL game folder and cover all the same items
 
+> [DL_APK](https://github.com/carnivoroussnowleopard/Degrees-of-Lewdity-ENG-Retexture-apk)  BY [carnivore_snow leopard]\
 > [Face tattoo mod download(optional)](https://github.com/zubonko/DOL_BJ_hair_extend/releases/tag/tattoo)
 
 # DOL-
